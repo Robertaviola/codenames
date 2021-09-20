@@ -1,3 +1,9 @@
+CODE ADAPTED FROM https://github.com/divyakoyy/codenames.git
+
+Divya Koyyalagunta, Anna Sun, Rachel Lea Draelos, Cynthia Rudin, "Playing Codenames with Language Graphs and Word Embeddings", 
+accepted for publication in the Journal of Artificial Intelligence Research (JAIR), 2021.
+
+
 import heapq
 import itertools
 import os
